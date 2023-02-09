@@ -33,7 +33,7 @@ curl -fsSL https://get.docker.com | sh
 ```
 Download the files in a directory called *marzban* by following command
 ```bash
-wget -qO- https://github.com/Gozargah/Marzban-examples/releases/latest/download/fully-single-port.tar.gz | tar xz --xform 's/fully-single-port/marzban/' && cd marzban
+wget -qO- https://github.com/tbehzad76/Marzban-fully-single-port/releases/download/latest/fully-single-port.tar.xz | tar xz --xform 's/fully-single-port/marzban/' && cd marzban
 ```
 Now you're in the directory, run the following command to run the application using docker
 ```bash
