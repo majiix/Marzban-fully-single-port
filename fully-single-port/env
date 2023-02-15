@@ -1,9 +1,8 @@
 SUDO_USERNAME = "admin"
 SUDO_PASSWORD = "admin"
 
- XRAY_HOSTS = "
- Otana-VPN Domain@example.com
- Otana-VPN IP@192.168.1.1
- "
+XRAY_HOSTS = "
+🚀Otana VPN@example.com
+"
 
 # XRAY_SUBSCRIPTION_URL_PREFIX = "https://example.com"
